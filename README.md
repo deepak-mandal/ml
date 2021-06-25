@@ -4,8 +4,8 @@ https://bit.ly/3wu5gzq
 
 Google Colab Link: https://drive.google.com/file/d/1mKDAjk42TU78kFflWxVz2TgK2oA9M-dQ/view?usp=sharing
 
-
-Objective:- To build a Linear Regression model that will be able to Predict the Sale Price of the house based on its characteristics.
+<h1>House Price Prediction</h1>
+<b>Objective:- To build a Linear Regression model that will be able to Predict the Sale Price of the house based on its characteristics.</b>
 
 ***Technologies used: Python, Machine learning technique - Linear Regression***
 
@@ -52,4 +52,4 @@ The information like this is where the essence of the data driven decision lies 
 
 """
 
-Result:- Generated the Prediction for test dataset with 84.62 % accuracy of the Model
+<h5>Result:- Generated the Prediction for test dataset with 84.62 % accuracy of the Model</h5>
