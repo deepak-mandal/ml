@@ -52,3 +52,30 @@ The information like this is where the essence of the data driven decision lies 
 """
 
 <h5>Result:- Generated the Prediction for test dataset with 84.62 % accuracy of the Model</h5>
+
+
+<hr/>
+<div align="center">
+    <img src="/img/1.png"> </img> 
+</div>
+<div align="center">
+    <img src="/img/2.png"> </img> 
+</div>
+<div align="center">
+    <img src="/img/3.png"> </img> 
+</div>
+<div align="center">
+    <img src="/img/4.png"> </img> 
+</div>
+<div align="center">
+    <img src="/img/5.png"> </img> 
+</div>
+<div align="center">
+    <img src="/img/6.png"> </img> 
+</div>
+<div align="center">
+    <img src="/img/7.png"> </img> 
+</div>
+<div align="center">
+    <img src="/img/8.png"> </img> 
+</div>
