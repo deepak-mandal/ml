@@ -8,6 +8,7 @@ Google Colab Link: https://drive.google.com/file/d/1mKDAjk42TU78kFflWxVz2TgK2oA9
 
 ***Technologies used: Python, Machine learning technique - Linear Regression***
 
+
 """
 #Conclusion
 
@@ -55,6 +56,11 @@ The information like this is where the essence of the data driven decision lies 
 
 
 <hr/>
+• House Price Prediction April 2021 - May 2021
+Self-paced project https://bit.ly/3wu5gzq
+◦ Built a Linear Regression Model to Predict the Sale Price of the House based on its characteristics.
+◦ Generated the Prediction for test dataset with 84.62 % accuracy of the Model.
+◦ Technologies used: Python, Machine learning technique - Linear Regression
 <div align="center">
     <img src="/img/1.png"> </img> 
 </div>
